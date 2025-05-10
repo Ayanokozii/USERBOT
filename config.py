@@ -5,7 +5,7 @@ API_ID = int(getenv("API_ID", "21189715")) # API_ID get it from my.telegram.org
 API_HASH = getenv("API_HASH", "988a9111105fd2f0c5e21c2c2449edfd") # API_HASH get ut from my.telegram.org
 
 # SESSIONS ~ python3 session.py
-STRING_SESSION = getenv("STRING_SESSION", "BQCT9g8Af5MPJfYxGTk56uwCtT7_ANrld0XlQm_4sMiJq2WG2BOEheBUFixzyXZKVBuVXONU3SnI9VwxJXFbTgjfwkyNzyIMfDC0OGyLI5kWuqtv7pZx3FZwdhMMPQj2en42vyuvpQAIm9xfrzoYq9XLw9PGu3zsGy4VHCZ9qHsyACR1--fzcjoeTlZyG8ttgP_7KGQzOFvPfW58FpRcBltQcM4FXSyvW3ci8tmyPHzowwICZLjCPepnjt_OWPvfcLGgXJoSot_xLMxGLn7LR_rluf26Q2Da03l89pDuXCzOdx0M3MdIgLDKrrqvSYPhwYGO7jpHQtU3JD4lrnm4hrV8GccyAwAAAAGurtJ3AA") # SESSION get it by run cmd "python3 session.py" in heroku consol or locally 
+STRING_SESSION = getenv("STRING_SESSION", "BQCT9g8AIsfRS1-FA0PuHg5lLwlQyQAf6dPzWswdT-nlbIjvJ7O6mlZtLyAOhd0Qs0-WYXM0JLdk7RYry3GokJDRKm_8Wiah6_bGZI8ruZqrW0MS3krOJP0SE6_JoiP3ydPBENkm_wwdKBDxf1hazqk0ScBelJlqGwaAH8YhTYkACesPhLF132nDtdrPdeNRAigUk9TbLFbPs5o2oJb03nwY6DYUtNW68_WCyhLv6qoz-8pNAoxuHAErMD5IYa0j1AigmgO6xelu3svHxT7sSE14pmMlNLCPHxI92WUcpXXqydCKEPsCdVHGwHmyqg2esCNcQwVN0ZXAjMy36MntAg-998Is7AAAAAG3Zm82AA") # SESSION get it by run cmd "python3 session.py" in heroku consol or locally 
 BOT_TOKEN = getenv("BOT_TOKEN","8111191177:AAHIm-L6LDVVKTvIaFP1CiB9pyLDXc_n5HY") # BOT_TOKEN get it from @BotFather Bot on telegram
 
 # DATABASES ~ mongodb.com
